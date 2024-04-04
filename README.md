@@ -37,9 +37,7 @@ To use these conversion scripts:
 
 We welcome contributions that improve the scripts or add new features. Please fork the repository, make your changes, and create a pull request with your updates.
 
-## License
 
-This project is open source and available under the MIT License. For more information, see the [LICENSE](LICENSE) file in this repository.
 
   
    
